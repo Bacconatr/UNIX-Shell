@@ -1,5 +1,7 @@
 # Project 1: Shell
 
+This project was created for the CS3650 class as the first major project. Our goal was to create a UNIX shell implementing the same functionality as it. 
+
 
 The [Makefile](Makefile) contains the following targets:
 
@@ -11,5 +13,4 @@ The [Makefile](Makefile) contains the following targets:
 - `make clean` - perform a minimal clean-up of the source tree
 
 
-The [examples](examples/) directory contains an example tokenizer. It might help.
 
